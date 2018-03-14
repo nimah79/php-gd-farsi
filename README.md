@@ -1,2 +1,2 @@
 # php-gd-farsi
-Farsi support of PHP GD library for generating 2D graphic on web
+This is the fixed version of https://github.com/ali-pourzahmatkesh/php-gd-farsi.
