@@ -1,5 +1,13 @@
 <?php
 
+/* Fixed version of FarsiGD
+ * By NimaH79
+ * NimaH79.ir
+*/
+
+// Just to be on the safe side
+ini_set('error_reporting', 'E_ALL & ~E_NOTICE & ~E_STRICT');
+
 class FarsiGD
 {
     public $p_chars = [
